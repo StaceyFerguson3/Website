@@ -69,8 +69,8 @@ ul {
 footer {
     font-size: 14px;
     font-style: italic;
-    margin-top: 150px;
-    margin-left: 350px;
-    margin-right: 350px;
-    justify-content: center;
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
+    justify-content: auto;
 }

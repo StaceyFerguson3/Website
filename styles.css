@@ -22,7 +22,6 @@ body {
     margin-top: 5px;
     margin-left: 150px;
     margin-right: 150px;
-    margin-bottom: 50px;
 }
 
 .container {
@@ -38,6 +37,7 @@ body {
 
 img {
     max-width: 100%;
+    margin-top: 20px;
     border: 1px solid plum;
 }
 
@@ -52,16 +52,25 @@ img {
 
 h2 {
     margin-top: 50px;
+    margin-left: 25px;
+}
+
+p {
+    margin-left: 25px;
+} 
+
+h4 {
+    margin-left: 25px;
 }
 
 ul {
-    margin-left: 50px;
+    margin-left: 25px;
     padding-bottom: 50px;
     border-bottom: 3px solid plum;
 }
 
 .content-box {
-    margin-top: 75px;
+    margin-top: 25px;
     margin-left: 400px;
     margin-right: 350px;
 }

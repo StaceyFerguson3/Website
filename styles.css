@@ -3,10 +3,38 @@
     color: #B2CED5;
 }
 
-body {
-    background-image: url(images/wddbg1.png);
+.banner {
+    height: 250px;
+    background-image: url(images/wddbg3.png);
+    background-size: contain;
     background-repeat: no-repeat;
-    width: 1400px;
-    height: 350px;
+    background-position: center;
+}
+
+body {
+    border: none;
     background-color: #373C62;
+    margin-top: 5px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 5px;
+}
+
+.content-box {
+    display: grid;
+    align-items: right;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    column-gap: 0px;
+}
+
+img {
+    max-width: 400px;
+    max-height: 300px;
+    border: 2px solid #B95372;
+}
+
+.text {
+    font-size: 18px;
+    align-content: left;
 }

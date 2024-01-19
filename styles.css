@@ -32,13 +32,13 @@ body {
     margin-left: 25px;
     margin-right: 25px;
     padding-bottom: 50px;
-    border-bottom: 3px solid plum;
+    border-bottom: 3px solid #D05E7F;
 }
 
 img {
     max-width: 100%;
     margin-top: 20px;
-    border: 1px solid plum;
+    border: 1px solid #D05E7F;
 }
 
 .image {
@@ -51,11 +51,11 @@ img {
 }
 
 a:link {
-  color: pink;
+  color: #FBD9CF;
 }
 
 a:visited {
-    color: palevioletred;
+    color: #D05E7F;
 }
 
 h2 {
@@ -74,7 +74,7 @@ h4 {
 ul {
     margin-left: 25px;
     padding-bottom: 50px;
-    border-bottom: 3px solid plum;
+    border-bottom: 3px solid #D05E7F;
 }
 
 .content-box {

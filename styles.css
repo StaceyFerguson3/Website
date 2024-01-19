@@ -50,6 +50,14 @@ img {
     padding-left: 10px;
 }
 
+a:link {
+  color: pink;
+}
+
+a:visited {
+    color: purple
+}
+
 h2 {
     margin-top: 50px;
     margin-left: 25px;

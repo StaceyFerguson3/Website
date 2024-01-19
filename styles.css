@@ -32,10 +32,13 @@ body {
     margin-top: 50px;
     margin-left: 25px;
     margin-right: 25px;
+    padding-bottom: 50px;
+    border-bottom: 3px solid plum;
 }
 
 img {
     max-width: 100%;
+    border: 1px solid plum;
 }
 
 .image {
@@ -44,7 +47,7 @@ img {
 
 .text {
     font-size: 20px;
-    padding-left: 20px;
+    padding-left: 10px;
 }
 
 h2 {
@@ -53,12 +56,20 @@ h2 {
 
 ul {
     margin-left: 50px;
+    padding-bottom: 50px;
+    border-bottom: 3px solid plum;
+}
+
+.content-box {
+    margin-top: 75px;
+    margin-left: 400px;
+    margin-right: 350px;
 }
 
 footer {
     font-size: 14px;
     font-style: italic;
-    margin-top: 350px;
+    margin-top: 150px;
     margin-left: 350px;
     margin-right: 350px;
     justify-content: center;
